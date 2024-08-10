@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **mhq14903@gmail.com**
 
+- 😎 TOEIC 975
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/minhhon.quach.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="quach minh hon" height="30" width="40" /></a>
