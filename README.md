@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hon14093" alt="hon14093" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind CSS, Node.js, React.js, Express.js**
+- 🌱 I’m currently learning **Microservices architecture, Docker, Redis, Node.js, Express.js**
 
 - 📫 How to reach me **mhq14903@gmail.com**
 
